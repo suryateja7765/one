@@ -4,7 +4,6 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>NexusShop · modern e‑commerce</title>
-  <!-- Google Fonts & Font Awesome -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
@@ -25,7 +24,7 @@
       --muted: #5e6f8d;
       --card: #ffffff;
       --radius: 16px;
-      --shadow: 0 12px 30px rgba(10, 37, 64, 0.06);
+      --shadow: 0 12px 30px rgba(10,37,64,0.06);
       --transition: 0.2s ease;
     }
     a { text-decoration: none; color: inherit; }
