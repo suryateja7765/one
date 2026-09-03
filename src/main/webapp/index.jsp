@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Bhavi Shop · modern e‑commerce_Bhavifile</title>
+  <title>naaaaaniiiii Shop · modern e‑commerce_naaaaaniiiiifile</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,500;14..32,600&family=Poppins:wght@600;700&display=swap" rel="stylesheet">
@@ -454,7 +454,7 @@
     <div class="container header-inner">
       <div style="display:flex;align-items:center;gap:12px;">
         <button class="mobile-toggle" id="mobileToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
-        <a href="#" class="brand">Bhavi<span class="accent">Shop</span></a>
+        <a href="#" class="brand">naaaaaniiiii<span class="accent">Shop</span></a>
       </div>
 
       <div class="nav-row">
@@ -601,7 +601,7 @@
     <div class="container">
       <div class="footer-grid">
         <div>
-          <strong style="font-size:1.2rem;color:var(--primary);">BhaviShop</strong>
+          <strong style="font-size:1.2rem;color:var(--primary);">naaaaaniiiiiShop</strong>
           <p style="margin-top:6px;max-width:260px;">Modern e‑commerce demo — crafted with care.</p>
           <div class="footer-social">
             <a href="#"><i class="fab fa-facebook"></i></a>
@@ -614,7 +614,7 @@
           <div><strong>Support</strong><br><span class="muted">Help<br>Returns</span></div>
         </div>
       </div>
-      <div style="text-align:center;margin-top:28px;font-size:0.8rem;color:var(--muted);">© <span id="year"></span> BhaviShop. All rights reserved.</div>
+      <div style="text-align:center;margin-top:28px;font-size:0.8rem;color:var(--muted);">© <span id="year"></span> naaaaaniiiiiShop. All rights reserved.</div>
     </div>
   </footer>
 
