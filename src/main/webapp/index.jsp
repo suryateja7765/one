@@ -586,7 +586,7 @@
     <!-- newsletter -->
     <section class="section container">
       <div class="newsletter-box">
-        <h3 style="font-size:1.6rem;">Get the best deals</h3>
+        <h3 style="font-size:1.6rem;">huk ra hunde</h3>
         <p style="margin-bottom:16px;">Subscribe for exclusive offers</p>
         <form id="newsletterForm" style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;">
           <input type="email" id="newsletterEmail" placeholder="your@email.com" required>
