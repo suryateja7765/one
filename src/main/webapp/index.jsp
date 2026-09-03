@@ -454,7 +454,7 @@
     <div class="container header-inner">
       <div style="display:flex;align-items:center;gap:12px;">
         <button class="mobile-toggle" id="mobileToggle" aria-label="Menu"><i class="fas fa-bars"></i></button>
-        <a href="#" class="brand">Nexus<span class="accent">Shop</span></a>
+        <a href="#" class="brand">Nani<span class="accent">Shop</span></a>
       </div>
 
       <div class="nav-row">
@@ -601,7 +601,7 @@
     <div class="container">
       <div class="footer-grid">
         <div>
-          <strong style="font-size:1.2rem;color:var(--primary);">NexusShop</strong>
+          <strong style="font-size:1.2rem;color:var(--primary);">NaniShop</strong>
           <p style="margin-top:6px;max-width:260px;">Modern e‑commerce demo — crafted with care.</p>
           <div class="footer-social">
             <a href="#"><i class="fab fa-facebook"></i></a>
@@ -614,7 +614,7 @@
           <div><strong>Support</strong><br><span class="muted">Help<br>Returns</span></div>
         </div>
       </div>
-      <div style="text-align:center;margin-top:28px;font-size:0.8rem;color:var(--muted);">© <span id="year"></span> NexusShop. All rights reserved.</div>
+      <div style="text-align:center;margin-top:28px;font-size:0.8rem;color:var(--muted);">© <span id="year"></span> NaniShop. All rights reserved.</div>
     </div>
   </footer>
 
