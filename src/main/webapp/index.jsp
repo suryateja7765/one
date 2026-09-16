@@ -459,8 +459,8 @@
 
       <div class="nav-row">
         <ul class="nav-links">
-          <li><a href="#"><i class="fas fa-home"></i> Home</a></li>
-          <li><a href="#categories"><i class="fas fa-th-large"></i> Categories</a></li>
+          <li><a href="#"><em class="fas fa-home"></em> Home</a></li>
+          <li><a href="#categories"><em class="fas fa-th-large"></em> Categories</a></li>
           <li><a href="#products"><i class="fas fa-fire"></i> Trending</a></li>
           <li><a href="#deals"><i class="fas fa-tag"></i> Deals</a></li>
         </ul>
